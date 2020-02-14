@@ -1,0 +1,2 @@
+Lol = 23
+puts Lol
