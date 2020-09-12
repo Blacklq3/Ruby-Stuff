@@ -9,7 +9,7 @@ class StringWrap
     end   
   end
   def Nums
-    return @Str.scan(/\d+\)
+    return @Str.scan(/\d+/)
   end 
   def FullContent
     return @Str
