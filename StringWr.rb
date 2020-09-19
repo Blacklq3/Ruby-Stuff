@@ -18,5 +18,3 @@ class StringWrap
     return @Str.gsub(/\d+/,"")
   end  
 end
-
-
